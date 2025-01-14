@@ -7,7 +7,7 @@
 #define CODAL_PIN NRF52Pin
 #define CODAL_SPI NRF52SPI
 
-#define MY_DISPLAY_TYPE 4242 // smart shield
+#define MY_DISPLAY_TYPE 7735 // smart shield
 #define MY_DISPLAY_CFG0 0x02020180 // allow execution without shield plugged in
 #define MY_DISPLAY_CFG1 0x00000603
 #define MY_DISPLAY_CFG2 8    // maximum SPI frequency for smart shield
